@@ -1,0 +1,86 @@
+body{
+    background-color: #21243d;
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav-color{
+    background-color: white;
+    border: none;
+}
+header{
+    height: 100vh;
+}
+h2{
+    font-size: 55px;
+    
+}
+p{
+    font-size: 25px;
+}
+
+.badge{
+    background-color: #13072e;
+    color: white;
+}
+img{
+    width: 100%;
+}
+.p-proudect{
+    font-size: 39px;
+}
+.circle{
+    background-color: white;
+    width: 20px;
+}
+.img-card{
+    width: 40%;
+}
+.card{
+    width: 600px;
+    background-color: #34385f;
+}
+.icon-star{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+.form::placeholder{
+   color: white;
+}
+.icon{
+    font-size: 50px;
+}
+.icon-address{
+  font-size: 60px;
+}
+h6{
+    font-size: 35px;
+}
+
+
+@media(max-width:768px){
+    header{
+        height: 1000px;
+    }
+}
+.logo{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+.slideshow-p{
+    position: relative;
+    bottom: -150px;
+}
+.slideshow-t{
+    position: relative;
+    bottom: -250px; 
+}
+.navbar{
+    background-color: #21243d;
+    margin-bottom: 50px;
+}
+.header-content{
+    margin-top: 70px;
+}
